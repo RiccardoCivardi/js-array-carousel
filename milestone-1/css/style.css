@@ -68,7 +68,7 @@ body{
   font-size: 1.3rem;
   position: absolute;
   left: 50%;
-  transform: transalte(-50%);
+  transform: translate(-50%);
 }
 
 .circle.top {

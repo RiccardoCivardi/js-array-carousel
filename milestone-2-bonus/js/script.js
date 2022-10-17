@@ -18,7 +18,7 @@ const prev = document.querySelector('.circle.top');
 let contCarousel = 0;
 
 // creo div.immages 
-divImages = document.createElement('div');
+const divImages = document.createElement('div');
 
 // a divImages assegno la classe .images
 divImages.classList.add('images');
